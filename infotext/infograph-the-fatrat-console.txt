@@ -1,0 +1,40 @@
+        |    | 							
+        |____| 							
+       _|____|_       _____ _       _____     _   _____     _       
+        /  ee\_      |_   _| |_ ___|   __|___| |_| __  |___| |_     
+      .<     __O       | | |   | -_|   __| .'|  _|    -| .'|  _|	
+     /\ \.-.' \        |_| |_|_|___|__|  |___|_| |__|__|___|_|  	
+    J  \.|'.\/ \                  				
+    | |_.|. | | |   [--]   Backdoor Creator for Remote Acces [--] 	
+     \__.' .|-' /   [--]  Created by: Edo Maland (Screetsec) [--]	
+     L   /|o'--'\   [--]            Version: 1.9.6           [--]	
+     |  /\/\/\   \  [--]          Codename: Whistle          [--]    
+     J /      \.__\ [--]   Follow me on Github: @Screetsec   [--]	
+     J /      \.__\ [--]   Dracos Linux : @dracos-linux.org  [--]	
+     |/         /   [--]    				     [--]		
+       \      .'\.  [--]     SELECT AN OPTION TO BEGIN:      [--]  
+    ____)_/\_(___\. [--] .___________________________________[--]	
+   (___._/  \_.___)'\_.-----------------------------------------/	
+
+  
+	[01]  Create Backdoor with msfvenom
+	[02]  Create Fud 100% Backdoor with Fudwin 1.0
+	[03]  Create Fud Backdoor with Avoid v1.2  
+	[04]  Create Fud Backdoor with backdoor-factory [embed] 
+	[05]  Backdooring Original apk [Instagram, Line,etc] 
+	[06]  Create Fud Backdoor 1000% with PwnWinds [Excelent] 
+	[07]  Create Backdoor For Office with Microsploit 
+	[08]  Trojan Debian Package For Remote Acces [Trodebi] 
+	[09]  Load/Create auto listeners  
+	[10]  Jump to msfconsole  
+	[11]  Searchsploit  
+	[12]  File Pumper [Increase Your Files Size] 
+	[13]  Configure Default Lhost & Lport 
+	[14]  Cleanup  
+	[15]  Help  
+	[16]  Credits  
+	[17]  Exit  
+ 
+ ┌─[TheFatRat]──[~]─[menu]:
+ └─────►   
+

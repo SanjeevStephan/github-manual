@@ -1,0 +1,28 @@
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMMMM                MMMMMMMMMM
+MMMN$                           vMMMM
+MMMNl  MMMMM             MMMMM  JMMMM
+MMMNl  MMMMMMMN       NMMMMMMM  JMMMM
+MMMNl  MMMMMMMMMNmmmNMMMMMMMMM  JMMMM
+MMMNI  MMMMMMMMMMMMMMMMMMMMMMM  jMMMM
+MMMNI  MMMMMMMMMMMMMMMMMMMMMMM  jMMMM
+MMMNI  MMMMM   MMMMMMM   MMMMM  jMMMM
+MMMNI  MMMMM   MMMMMMM   MMMMM  jMMMM
+MMMNI  MMMNM   MMMMMMM   MMMMM  jMMMM
+MMMNI  WMMMM   MMMMMMM   MMMM#  JMMMM
+MMMMR  ?MMNM             MMMMM .dMMMM
+MMMMNm `?MMM             MMMM` dMMMMM
+MMMMMMN  ?MM             MM?  NMMMMMN
+MMMMMMMMNe                 JMMMMMNMMM
+MMMMMMMMMMNm,            eMMMMMNMMNMM
+MMMMNNMNMMMMMNx        MMMMMMNMMNMMNM
+MMMMMMMMNMMNMMMMm+..+MMNMMNMNMMNMMNMM
+        https://metasploit.com
+
+
+       =[ metasploit v4.16.30-dev                         ]
++ -- --=[ 1722 exploits - 986 auxiliary - 300 post        ]
++ -- --=[ 507 payloads - 40 encoders - 10 nops            ]
++ -- --=[ Free Metasploit Pro trial: http://r-7.co/trymsp ]
+
+msf>
