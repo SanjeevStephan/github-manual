@@ -5,7 +5,7 @@
 ### Heading
 #### Heading
 
-![Sample Image)(https://cdn.analyticsvidhya.com/wp-content/uploads/2020/05/Practical-guide-to-Git-GitHub-for-absolute-beginner.jpg)
+![Sample Image](https://cdn.analyticsvidhya.com/wp-content/uploads/2020/05/Practical-guide-to-Git-GitHub-for-absolute-beginner.jpg)
 
     ![Sample Image Name Here]( <put-your-image-link-right-here> )
 
