@@ -9,8 +9,12 @@
 * List 2
   * Sub-List (i)
   * Sub-List (ii)
+  
+    * Strike Through
 
 _This is an Italic Text_
+   
+    _put your text like this to make it appear as an italic text_
 
 > This is specical Paragraph. It can be used to Hightlight Important Stuffs
 
