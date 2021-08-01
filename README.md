@@ -25,8 +25,12 @@ _This is an Italic Text_
     Leave An Empty Line Above this paragrah then
     <put four spaces/> Before this Text to make it appear like this.
     
-    
-    ```c++
+To Formate code below simple Add 
+       ```
+        <code>goes here</code>
+       ```
+ 
+```c++
   /*********
   Rui Santos
   Complete project details at https://randomnerdtutorials.com  
