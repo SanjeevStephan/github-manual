@@ -26,7 +26,27 @@ _This is an Italic Text_
     <put four spaces/> Before this Text to make it appear like this.
     
     
-    
+    ```c++
+  /*********
+  Rui Santos
+  Complete project details at https://randomnerdtutorials.com  
+*********/
+
+int pin = 2;  
+
+void setup() {  
+  // initialize GPIO 2 as an output.  <br/>
+  pinMode(pin, OUTPUT); 
+}  
+
+// the loop function runs over and over again forever  <br/>
+void loop() { \n
+  digitalWrite(pin, HIGH);   // turn the LED on (HIGH is the voltage level)
+  delay(1000);               // wait for a second
+  digitalWrite(pin, LOW);    // turn the LED off by making the voltage LOW
+  delay(1000);               // wait for a second
+}
+```
      
      
     
