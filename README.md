@@ -26,9 +26,9 @@ _This is an Italic Text_
     <put four spaces/> Before this Text to make it appear like this.
     
 To Formate code below simple Add 
-       ```
+       ` ``
         <code>goes here</code>
-       ```
+       `` `
  
 ```c++
   /*********
