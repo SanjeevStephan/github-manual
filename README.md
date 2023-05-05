@@ -9,7 +9,8 @@
 * [Read Complete Formamting Rules and Syntax](https://github.github.com/gfm/)
 
 ## Github's Profile
-* [Profile ReadMe Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+* [Profile ReadMe Generator by rahuldkjain](https://rahuldkjain.github.io/gh-profile-readme-generator/)
+* [Profile ReadMe Generator by arturssmirnovs](https://arturssmirnovs.github.io/github-profile-readme-generator/)
 
 ### Github's Hosted Webpages
 * [Github Pages](https://pages.github.com/themes/)
